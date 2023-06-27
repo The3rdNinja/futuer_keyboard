@@ -133,7 +133,7 @@ the_button_border = 10
 
 smart_type_list = ''
 
-Hebrew_font = '/home/noam/Varela_Round/VarelaRound-Regular.ttf'
+Hebrew_font = 'Varela_Round/VarelaRound-Regular.ttf'
 English_font = None
 
 font_lang = English_font
